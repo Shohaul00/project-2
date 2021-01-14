@@ -21,3 +21,15 @@ span {
 .card-side {
     background-image: linear-gradient(45deg,#03001e,#7303c0,#ec38bc,#fdeff9);
 }
+#contact {
+    height: 400px;
+}
+.copyright img {
+    width: 30px;
+    margin-bottom: 10px;
+}
+footer {
+    background-image: linear-gradient(90deg,#0c2189,#00d4ff);
+    color: white;
+    box-shadow: 10px 10px 40px gray;
+}
