@@ -11,6 +11,11 @@ main {
 .mega-sale {
     font-size: 320%;
 }
+.mega-sale-link {
+    display: block;
+    color: white;
+    background-image: linear-gradient(45deg, #b21f1f, #fdbb2d);
+}
 span {
     color: rgba(255, 68, 0, 0.782);
 }
@@ -32,4 +37,7 @@ footer {
     background-image: linear-gradient(90deg,#0c2189,#00d4ff);
     color: white;
     box-shadow: 10px 10px 40px gray;
+}
+#footer-highlight {
+    color: yellow;
 }
